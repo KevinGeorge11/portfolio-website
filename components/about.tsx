@@ -22,13 +22,13 @@ export default function About() {
       <p className="mb-3">
         Hi there! Thank you for coming out to visit my website {" "}
         <span role="img" aria-label="smile face">🙂</span>. {" "}
-          I'm a hard working and recent{" "}
+          I am a hard working and recent{" "}
           <span className="font-medium">Computer Science graduate</span> from the{" "}
           <span className="font-medium">University of Waterloo</span>, striving towards{" "}
           <span className="underline">the goal of making the world a better place through technology</span>.{" "}
           Fully committed to the philosophy of life-long learning, I’m a{" "}
           <span className="font-medium">full stack developer</span> with a deep passion for{" "}
-          <span className="font-medium">Python/Django, React and all things web development.</span> I've had{" "} 
+          <span className="font-medium">Python/Django, React and all things web development.</span> I had{" "} 
           <span className="italic">amazing internships</span> from a variety of industry sections that have taught me how to uphold{" "}
           <span className="font-medium">performance, usability, accessibility</span> through{" "} 
           <span className="font-medium">clean and efficient code</span> whenever I develop new features. 
