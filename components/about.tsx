@@ -19,7 +19,7 @@ export default function About() {
       id="about"
     >
       <SectionHeading>About me</SectionHeading>
-      <p className="mb-3">
+      <p className="mb-8 text-left indent-8">
         Hi there! Thank you for coming out to visit my website {" "}
         <span role="img" aria-label="smile face">🙂</span>. {" "}
           I am a hard working and recent{" "}
@@ -33,7 +33,7 @@ export default function About() {
           <span className="font-medium">performance, usability, accessibility</span> through{" "} 
           <span className="font-medium">clean and efficient code</span> whenever I develop new features. 
       </p>
-       <p>
+       <p className="text-left indent-8">
         Beyond coding, my other passions are playing soccer, doing my daily workouts, playing story-based games, watching uplifting{" "} 
         anime and spending time with others. One thing I{" "}
         <span className="italic">absolutely love</span> is reading about{" "}
