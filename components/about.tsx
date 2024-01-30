@@ -25,7 +25,7 @@ export default function About() {
           I am a hard working and recent{" "}
           <span className="font-medium">Computer Science graduate</span> from the{" "}
           <span className="font-medium">University of Waterloo</span>, striving towards{" "}
-          <span className="underline">the goal of making the world a better place through technology</span>.{" "}
+          <a href="https://medium.com/remote-symfony-team/let-s-make-the-world-a-better-place-through-technology-are-you-in-f4a32591f5ee" target="_blank" className="underline">the goal of making the world a better place through technology</a>.{" "}
           Fully committed to the philosophy of life-long learning, I’m a{" "}
           <span className="font-medium">full stack developer</span> with a deep passion for{" "}
           <span className="font-medium">Python/Django, React and all things web development.</span> I had{" "} 
@@ -37,8 +37,8 @@ export default function About() {
         Beyond coding, my other passions are playing soccer, doing my daily workouts, playing story-based games, watching uplifting{" "} 
         anime and spending time with others. One thing I{" "}
         <span className="italic">absolutely love</span> is reading about{" "}
-        <span className="underline">Self-Actualization advice </span>and having a{" "}
-        <span className="underline">progressive mindset</span>. I am currently working on{" "}
+        <a href="https://www.healthline.com/health/self-actualization" target="_blank" className="underline">Self-Actualization advice </a>and having a{" "}
+        <a href="https://fastercapital.com/content/Progressive-thinking--Embracing-a-Forward-Looking-Mindset.html" target="_blank" className="underline">progressive mindset</a>. I am currently working on{" "}
         <span className="font-medium">a project that simplifies and enhances the process of organizing social group events</span>. 
       </p>
     </motion.section>
